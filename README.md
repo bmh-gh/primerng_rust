@@ -1,2 +1,2 @@
 # primerng_rust
-A big prime number generator using the Rust programming langugae
+A big prime number generator using the Rust programming language
